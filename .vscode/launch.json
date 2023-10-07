@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "intToString",
+            "request": "launch",
+            "mainClass": "HackerRank.intToString",
+            "projectName": "code-exercises-java_9d6bcf66"
+        },
+        {
+            "type": "java",
             "name": "StringReverse",
             "request": "launch",
             "mainClass": "HackerRank.StringReverse",
