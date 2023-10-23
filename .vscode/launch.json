@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BigInteger",
+            "request": "launch",
+            "mainClass": "HackerRank.BigInteger",
+            "projectName": "code-exercises-java_9d6bcf66"
+        },
+        {
+            "type": "java",
             "name": "subArrays",
             "request": "launch",
             "mainClass": "HackerRank.subArrays",
