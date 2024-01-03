@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "JavaThreads",
+            "request": "launch",
+            "mainClass": "concepts.JavaThreads",
+            "projectName": "code-exercises-java_9d6bcf66"
+        },
+        {
+            "type": "java",
             "name": "RomanToInteger",
             "request": "launch",
             "mainClass": "LeetCode.RomanToInteger",
